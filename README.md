@@ -133,7 +133,7 @@ We welcome contributions from developers, designers, and testers.
 
 ## 📬 Contact
 
-**👤 Nadeem Mohammad**
+**👤 Lokesh Kukudala**
 📧 [[kukudalalokesh09@gmail.com](mailto:kukudalalokesh09@gmail.com)]
 🔗 [[GitHub Profile](https://github.com/Lokesh-kukudala)]
 
