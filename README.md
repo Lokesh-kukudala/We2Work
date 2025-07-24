@@ -31,7 +31,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Nadeem-mohammad0021/we2work.git
+git clone https://github.com/Lokesh-kukudala/we2work.git
 cd we2work
 ````
 
@@ -134,8 +134,8 @@ We welcome contributions from developers, designers, and testers.
 ## 📬 Contact
 
 **👤 Nadeem Mohammad**
-📧 [[nadeem.mohammad0021@gmail.com](mailto:nadeem.mohammad0021@gmail.com)]
-🔗 [[GitHub Profile](https://github.com/Nadeem-mohammad0021)]
+📧 [[kukudalalokesh09@gmail.com](mailto:kukudalalokesh09@gmail.com)]
+🔗 [[GitHub Profile](https://github.com/Lokesh-kukudala)]
 
 ---
 
